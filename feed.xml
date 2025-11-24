@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IA Feed abdillahcivic</title>
+    <link>https://abdillahcivic.github.io/ia-wrapper/</link>
+    <description>Instant Articles Feed</description>
+
+    <item>
+      <title>Posting Shopee Viral</title>
+      <link>https://abdillahcivic.github.io/ia-wrapper/IA.html</link>
+      <guid>post-1</guid>
+      <content:encoded><![CDATA[
+<!doctype html>
+<html lang="en" prefix="op: http://media.facebook.com/op#">
+<head>
+  <meta charset="utf-8">
+  <meta property="op:markup_version" content="v1.0">
+
+  <link rel="canonical" href="https://s.shopee.co.id/2Vk0HZEx1x">
+
+  <title>Produk Viral</title>
+</head>
+
+<body>
+<article>
+<header>
+  <figure>
+    <img src="https://i.imgur.com/tLDfvox.jpeg">
+  </figure>
+
+  <figure>
+    <img src="https://i.imgur.com/tLDfvox.jpeg">
+  </figure>
+
+  <figure>
+    <img src="https://i.imgur.com/tLDfvox.jpeg">
+  </figure>
+</header>
+
+<p>Klik gambar untuk langsung menuju Shopee.</p>
+
+</article>
+</body>
+</html>
+      ]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
